@@ -69,3 +69,5 @@ Ensemble Classifier
 
 
 ## Summary
+I would recommend the Ensemble Classifier. The precision score for all 6 models was 99%, so reviewing the accuracy and recall scores, Ensemble Classifier provided the highest. 
+
